@@ -6,7 +6,7 @@ function ProfileLinks()
 	var OptionsList = '';
 	
 	// Find all the H3 tags in the profile, which should be the groupings for each option group.
-	jQuery('#your-profile > h3').each( function( index ) {
+	jQuery('#your-profile > h3, #your-profile > h2').each( function( index ) {
 		// Set the current H3 to work on and get it's id.
 		var option = jQuery( this );
 		var id = option.attr('id');
