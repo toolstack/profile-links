@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Profile Links
-Version: 1.0
+Version: 1.1
 Plugin URI: http://toolstack.com/profile-links
 Author: Greg Ross
 Author URI: http://toolstack.com
@@ -11,12 +11,12 @@ Compatible with WordPress 3.5+.
 
 Read the accompanying readme.txt file for instructions and documentation.
 
-Copyright (c) 2014 by Greg Ross
+Copyright (c) 2014-16 by Greg Ross
 
 This software is released under the GPL v2.0, see license.txt for details
 */
 
-define( 'ProfileLinksVersion', '1.0' );
+define( 'ProfileLinksVersion', '1.1' );
 
 /*
 	This function is called when a user edits/views their profile and creates the profile section links.

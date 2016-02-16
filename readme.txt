@@ -4,8 +4,8 @@ Plugin URI: http://toolstack.com/profile-links
 Author URI: http://toolstack.com
 Tags: user profile
 Requires at least: 3.4.0
-Tested up to: 4.3
-Stable tag: 1.0
+Tested up to: 4.4
+Stable tag: 1.1
 License: GPL2
 
 Adds links to the top of the user profile page for each of the sections in the profile.
@@ -32,6 +32,10 @@ Profile Links generates the jump list based on the H3 tags it finds in the profi
 1. Example of a profile with links.
 
 == Changelog ==
+= 1.1 =
+* Release date: February 16, 2016
+* Added: Support for WP's new use of H2 tags instead of H3 tags in the profile to denote sections.
+
 = 1.0 =
 * Release date: April 3, 2014
 * Incremented version to 1.0.
