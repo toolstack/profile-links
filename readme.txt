@@ -47,3 +47,4 @@ Profile Links generates the jump list based on the H3 tags it finds in the profi
 == Upgrade Notice ==
 = 1.0 =
 * None.
+
