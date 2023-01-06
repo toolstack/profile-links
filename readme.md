@@ -1,49 +1,52 @@
-=== Profile Links ===
-Contributors: GregRoss
-Plugin URI: http://toolstack.com/profile-links
-Author URI: http://toolstack.com
-Tags: user profile
-Requires at least: 3.4.0
-Tested up to: 6.1.1
-Stable tag: 1.1
-License: GPL2
+# Profile Links #
+**Contributors:** [gregross](https://profiles.wordpress.org/gregross/)  
+**Plugin URI:** http://toolstack.com/profile-links  
+**Author URI:** http://toolstack.com  
+**Tags:** user profile  
+**Requires at least:** 3.4.0  
+**Tested up to:** 6.1.1  
+**Stable tag:** 1.1  
+**License:** GPL2  
 
 Adds links to the top of the user profile page for each of the sections in the profile.
 
-== Description ==
+## Description ##
 
 Have a lot of options in your user profile page and are tired of scrolling down through them to get to the one you want?  Profile Links creates a jump list at the top of the page of all the option groups in your profile.  It also converts each heading in to a jump back to the top of the page.
 
 This code is released under the GPL v2, see license.txt for details.
 
-== Installation ==
+## Installation ##
 
 1. Extract the archive file into your plugins directory in the profile-links folder.
 2. Activate the plugin in the Plugin options.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= Why doesn't an option group for a plugin show up in the jump list? =
+### Why doesn't an option group for a plugin show up in the jump list? ###
 
 Profile Links generates the jump list based on the H3 tags it finds in the profile page.  If a plugin has used something other than an H3 tag Profile Links won't find it.
 
-== Screenshots ==
+## Screenshots ##
 
-1. Example of a profile with links.
+### 1. Example of a profile with links. ###
+![Example of a profile with links.](assets/screenshot-1.png)
 
-== Changelog ==
-= 1.1 =
+
+## Changelog ##
+### 1.1 ###
 * Release date: February 16, 2016
 * Added: Support for WP's new use of H2 tags instead of H3 tags in the profile to denote sections.
 
-= 1.0 =
+### 1.0 ###
 * Release date: April 3, 2014
 * Incremented version to 1.0.
 
-= 0.1 =
+### 0.1 ###
 * Release date: January 31, 2014
 * Initial release.
 
-== Upgrade Notice ==
-= 1.0 =
+## Upgrade Notice ##
+### 1.0 ###
 * None.
+
